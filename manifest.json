@@ -1,14 +1,14 @@
 {
   "format_version": 2,
   "header": {
-    "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
+    "description": "LDS Faithful 32x, a Fork of Faithful 32x For Bedrock",
     "min_engine_version": [
       1,
-      17,
+      21,
       0
     ],
-    "name": "Faithful 32x - November 2024 Pre-release",
-    "uuid": "45223e28-5ca9-4faf-8644-fc6eaf12bdc0",
+    "name": "Faithful 32x - LDS 2025",
+    "uuid": "7da92fca-d697-454c-bcf4-8dd34ac7ef7a",
     "version": [
       2,
       0,
@@ -16,15 +16,15 @@
     ]
   },
   "metadata": {
-      "authors": [ "Vattic & Faithful Team" ],
+      "authors": [ "BZeeman -- Vattic & Faithful Team" ],
       "license": "https://faithfulpack.net/license",
       "url": "https://faithfulpack.net/"
 },
   "modules": [
     {
-      "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
+      "description": "LDS Faithful 32x, with paintins centered on Christ and his Gospel",
       "type": "resources",
-      "uuid": "7a19f532-e1ac-4ce7-b90b-b143f1eb41fe",
+      "uuid": "643472d9-43dc-46ae-9398-83a4b61721cd",
       "version": [
         0,
         0,
